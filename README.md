@@ -33,3 +33,18 @@ c. Select the file you dowloaded (file available bellow) d. Double click on the 
  
  The script requires a NTLK package which will be downloaded and run. The NTLK package will launch an interface which needs to be close manually for the script to be run in some cases. You might see the following interface.
 In case it appears, you can simply close it so that the script runs successfully.
+
+**TO-DO**
+
+
+<div>
+  <input type="checkbox" id="scales" name="scales"
+         checked>
+  <label for="scales">Adjust the script to fetch data from Aha, documentation.</label>
+</div>
+
+<div>
+  <input type="checkbox" id="horns" name="horns">
+  <label for="horns">Horns</label>
+</div>
+ 
