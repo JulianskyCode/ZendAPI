@@ -13,7 +13,7 @@ This tool is a Python script that delivers a list of tickets from Zendesk that p
 2. Once you’ve followed the install instructions, after you typed in jupyter notebook in the Terminal, a new tab should be opening in your default browser that points out to a Jupyter notebook on localhost.
 3. Here you should select:
 File New Notebook Python 3;
-4. Upload attached notebook “Feedback Analysis via Zendesk (chat) tickets.ipynb”: a. Click on File -> Open
+4. Upload notebook from this repo “script.ipynb”: a. Click on File -> Open
 b. Select Upload from top right corner;
 c. Select the file you dowloaded (file available bellow) d. Double click on the file.
 
