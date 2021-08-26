@@ -3,13 +3,13 @@ Customer Feedback Analysis via Zendesk API
 
 This tool is a Python script that delivers a list of tickets from Zendesk that provide valuable feedback, reducing effort of evaluating tickets individually by almost 10x.
 
-**how to use guide**
+**How to use guide**
 
 This tool is a Python script that delivers a list of tickets from Zendesk that provide valuable feedback, reducing effort of evaluating tickets individually by almost 10x.The Python Script heavy relies on a NLP (Natural Language Processing) library.
 
 **P1. Installation**
 
-1. Set yourself up with a Jupyter Notebook:Local: : Make sure you install Python 3https://jupyter.org/installNote
+1. Set yourself up with a Jupyter Notebook:Local: : Make sure you install Python 3: https://jupyter.org/installNote
 2. Once you’ve followed the install instructions, after you typed in jupyter notebook in the Terminal, a new tab should be opening in your default browser that points out to a Jupyter notebook on localhost.
 3. Here you should select:
 File New Notebook Python 3;
