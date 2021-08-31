@@ -1,11 +1,13 @@
 **#ZendAPI**
 Customer Feedback Analysis via Zendesk API 
 
-This tool is a Python script that delivers a list of tickets from Zendesk that provide valuable feedback, reducing effort of evaluating tickets individually by almost 10x.
+This is a Python script that can analyse a specific set of data, given a set of keywords. This this case, it is tied to the Zendesk API from where it pull a specific list of tickets (given a timeframe and some params) and then it passes it to a NLP library for further data processing. In the end it will give you a list of keywords (5+) that are most common through the give data set. 
+
+Bassed on the keywords you can easily track down all related tickets that provide valuable feedback, reducing effort of evaluating tickets individually by almost 10x.
 
 **How to use guide**
 
-This tool is a Python script that delivers a list of tickets from Zendesk that provide valuable feedback, reducing effort of evaluating tickets individually by almost 10x.The Python Script heavy relies on a NLP (Natural Language Processing) library.
+The Python Script heavy relies on a NLP (Natural Language Processing) library.
 
 **P1. Installation**
 
